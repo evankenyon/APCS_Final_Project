@@ -5,7 +5,7 @@ public class textChoiceFive extends textChoice {
 	/**
 	 * it holds the text for the continuation of the game after you pick your fifth choice
 	 * and updates your characters stats and bases some of the text off of your character stats
-	 * @param previousChoices the choice you picked
+	 * @param previousChoices the choice picked
 	 * @param character your character
 	 * @return the text for the next part of the game based on the the choice you picked
 	 */
